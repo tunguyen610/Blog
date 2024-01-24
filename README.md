@@ -36,4 +36,4 @@ Just clone and run React env in your local.
 
 ### FYI
 
-please report any issue to <strong>indrawanlisantopersonal@gmail.com</strong>
+please report any issue to <strong>tund.6102000@gmail.com</strong>
